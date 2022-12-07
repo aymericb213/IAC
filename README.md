@@ -12,3 +12,5 @@ The data contains :
 - the computed partitions, cluster assignments and user constraints used in the tree cut use case
 
 The experiments can be reproduced by running the executable, opening a CLI menu to choose an experiment. The results will be written in a folder named "reproduced_results".
+
+Concerning the use case experiments, the images in the paper were assembled from layers with Gimp. The executable will reproduce the layers, not the composite images.
