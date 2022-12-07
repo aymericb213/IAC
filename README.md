@@ -1,1 +1,5 @@
 # IAC
+
+This repository contains the experimental setup, data, and plots used in the PAKDD'23 submission titled "A user-centered framework for incremental and active clustering".
+
+Our experimental setup is available is a binary executable. Source code will be shared upon acceptation of this paper.
