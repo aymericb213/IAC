@@ -1,6 +1,6 @@
 # A user-centered framework for incremental and active clustering
 
-This repository contains the experimental setup, data, and plots used in the PAKDD'23 submission titled "A user-centered framework for incremental and active clustering".
+This repository contains the experimental setup, data, and plots used in the PAKDD'23 submission titled "A user-centered framework for incremental and active clustering" (paper ID 641).
 
 Our experimental setup is available is a binary executable. Source code will be shared upon acceptation of this paper.
 Due to file size limitations, we stored the executable in anonymous [cloud storage](https://drive.proton.me/urls/5Q8DHMSSYW#0qj9E4Yk8wNI). 
