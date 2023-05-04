@@ -1,4 +1,4 @@
-# Incremental Constrained Clustering by Minimal1Weighted Modification
+# Incremental Constrained Clustering by Minimal Weighted Modification
 
 This repository contains the experimental setup, data, and plots used in the CP'23 submission titled "Incremental Constrained Clustering by Minimal Weighted Modification" (submission 107).
 
