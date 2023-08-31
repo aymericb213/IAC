@@ -61,7 +61,7 @@ def num_ground_truth(gt):
     num_gt = np.zeros(len(gt))
     cls = np.unique(gt)
     for i in range(len(gt)):
-        num_gt[i] = cls.
+        num_gt[i] = np.where(cls == gt[i])[0]
     return num_gt
 
 
