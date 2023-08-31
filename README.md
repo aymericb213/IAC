@@ -2,6 +2,8 @@
 
 This repository contains the experimental setup, data, and plots used in the CP'23 contribution
 titled "Incremental Constrained Clustering by Minimal Weighted Modification" (paper **38**).
+The paper is available as preliminary proceedings (https://submission.dagstuhl.de/collections/CP-2023/preliminary-proceedings/10)
+or in the open access archive HAL : https://hal.science/hal-04158825.
 
 ## Repo structure
 
