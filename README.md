@@ -1,7 +1,7 @@
 # Incremental Constrained Clustering by Minimal Weighted Modification
 
 This repository contains the experimental setup, data, and plots used in the CP'23 contribution
-titled "Incremental Constrained Clustering by Minimal Weighted Modification" (paper **38**).
+titled "Incremental Constrained Clustering by Minimal Weighted Modification".
 The paper is available in open access (https://drops.dagstuhl.de/opus/volltexte/2023/19047).
 
 ## Repo structure
