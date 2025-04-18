@@ -1,0 +1,2 @@
+conf 1,conf 2,P_left,P_rope,P_right
+"('RandomMLCL', 'incr')","('RandomMLCL', 'cumul')",1.5e-05,0.999885,0.0001
