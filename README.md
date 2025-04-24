@@ -1,3 +1,5 @@
+[![Static Badge](https://img.shields.io/badge/DOI-10.4230%2FLIPIcs.CP.2023.10-yellow)](https://doi.org/10.4230/LIPIcs.CP.2023.10)
+
 # Incremental Constrained Clustering by Minimal Weighted Modification
 
 This repository contains the experimental setup, data, and plots used in the CP'23 contribution
